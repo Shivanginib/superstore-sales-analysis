@@ -11,11 +11,7 @@ Power BI (Dashboard & Visualization)
 Superstore dataset (Kaggle)
 
 🔍 Key Analysis
-Sales and profit analysis
-Category performance
-Regional performance
-Customer analysis
-Monthly sales trends
+Sales and profit analysis, Category performance, Regional performance, Customer analysis, Monthly sales trends
 
 📈 Dashboard Features
 KPI Cards (Sales, Profit, Orders)
