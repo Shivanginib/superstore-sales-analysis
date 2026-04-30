@@ -17,10 +17,10 @@ Sales and profit analysis, Category performance, Regional performance, Customer 
 KPI Cards (Sales, Profit, Orders), Sales Trend Analysis, Category & Region Insights, Top Customers, Interactive Filters
 
 💡 Key Insights
-Technology category generates highest profit
-West region leads in sales
-Some sub-categories incur losses
-Sales show seasonal trends
+1. Technology category generates highest profit.
+2. West region leads in sales.
+3. Some sub-categories incur losses.
+4. Sales show seasonal trends.
 
 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
