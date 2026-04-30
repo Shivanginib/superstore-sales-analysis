@@ -1,13 +1,13 @@
 📊 Superstore Sales Analysis Dashboard
 
-📌 Project Overview
+📌 Project Overview : 
 This project analyzes retail sales data using SQL and Power BI to uncover business insights and trends.
 
 🛠 Tools Used
-MySQL (Data Cleaning & Analysis)
-Power BI (Dashboard & Visualization)
+1. MySQL (Data Cleaning & Analysis)
+2. Power BI (Dashboard & Visualization)
 
-📂 Dataset
+📂 Dataset: 
 Superstore dataset (Kaggle)
 
 🔍 Key Analysis
@@ -33,5 +33,5 @@ Superstore dataset (Kaggle)
 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
 
-🚀 Conclusion
+🚀 Conclusion: 
 This project demonstrates end-to-end data analysis from data cleaning to visualization and business insights.
