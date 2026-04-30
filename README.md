@@ -11,14 +11,18 @@ Power BI (Dashboard & Visualization)
 Superstore dataset (Kaggle)
 
 🔍 Key Analysis
-Sales and profit analysis.
-Category performance. 
-Regional performance. 
-Customer analysis. 
-Monthly sales trends.
+1. Sales and profit analysis.
+2. Category performance. 
+3. Regional performance. 
+4. Customer analysis. 
+5. Monthly sales trends.
 
 📈 Dashboard Features
-KPI Cards (Sales, Profit, Orders), Sales Trend Analysis, Category & Region Insights, Top Customers, Interactive Filters
+1. KPI Cards (Sales, Profit, Orders)
+2. Sales Trend Analysis
+3. Category & Region Insights
+4. Top Customers
+5. Interactive Filters
 
 💡 Key Insights
 1. Technology category generates highest profit.
