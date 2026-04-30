@@ -14,11 +14,7 @@ Superstore dataset (Kaggle)
 Sales and profit analysis, Category performance, Regional performance, Customer analysis, Monthly sales trends
 
 📈 Dashboard Features
-KPI Cards (Sales, Profit, Orders)
-Sales Trend Analysis
-Category & Region Insights
-Top Customers
-Interactive Filters
+KPI Cards (Sales, Profit, Orders), Sales Trend Analysis, Category & Region Insights, Top Customers, Interactive Filters
 
 💡 Key Insights
 Technology category generates highest profit
